@@ -6,6 +6,8 @@
 
         <title>Justice Bole</title>
 
+        <meta name="csrf-token" content="{{csrf_token()}}">
+
         @vite('resources/js/app.js')
 
         <link href="{{ asset('../css/app.css')}}" rel="stylesheet">

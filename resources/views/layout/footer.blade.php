@@ -1,8 +1,8 @@
 <!-- ====== Footer Section Start -->
-<footer class="bg-gray-200 dark:bg-slate-800 py-8 relative z-10">
+<footer class="bg-gray-200 dark:bg-slate-800 py-8 relative z-10 px-20">
     <div class="contianer">
         <div class="flex flex-wrap justify-between">
-            <span class="inline-flex items-center text-xl"> Follow me on Social Media</span>
+            <span class="inline-flex items-center text-xl dark:text-white"> Follow me on Social Media</span>
             <x-social-icons class="mb-0"></x-social-icons>
         </div>
     </div>

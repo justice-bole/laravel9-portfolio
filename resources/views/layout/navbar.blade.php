@@ -11,12 +11,12 @@
                 <img 
                 src="{{url('/img/logo.png')}}" 
                 alt="logo" 
-                class="w-[110px] lg:w-[110px] inline-block dark:hidden"
+                class="w-[110px] lg:w-[110px] sm:w-[110px] inline-block dark:hidden"
                 />
                 <img 
                 src="{{url('/img/logo-white.png')}}" 
                 alt="logo" 
-                class="w-[110x] lg:w-[110px] hidden dark:inline-block"
+                class="w-[60x] lg:w-[110px] sm:w-[110px] hidden dark:inline-block"
                 />
                 <span class="text-xl xl:text-2xl font-bold text-[#0c7187] dark:text-white">JusticeBole</span>
             </a>
