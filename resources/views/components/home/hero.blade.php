@@ -11,13 +11,15 @@
             <div class="hero-content">
                 <h1 class="text-dark dark:text-gray-2 font-bold text-4xl sm:text-[42px] lg:text-[40px] xl:test-[42px] leading-snug mb-6">
                     My Name is Justice. <br/>
-                    I'm a <span class="rounded-md text-amber-600">Software Engineer</span>.
+                    I'm a <span class="rounded-md text-amber-500">Software Engineer</span>.
                 </h1>
-                <p class="text-base mb-8 max-w-[520px] dark:text-gray-2">
-                    I started coding as a hobby 10 years ago, now I've been doing it professionally for 3 years.</br>
-                    Creating and sharing software is something I enjoy immenseley that's why I share all my personal projects on my 
-                    <a class="text-primary font-bold no-underline hover:underline underline-offset-2 decoration-2 decoration-primary"
-                        href="https://github.com/justice-bole" target="_blank">GitHub</a>. <br/>
+                <p class="text-base mb-4 max-w-[520px] dark:text-gray-2">
+                    <span class="rounded-md text-primary dark:text-amber-500 font-bold">Coding is exciting.</span> I started coding as a hobby 10 years ago out of curiosity. 
+                    I had been using technology my whole life but had no idea how it worked, I was mystified. I searched the internet for answers which eventually led me to creating my very first website! 
+                    Since that day I've been determined to develope my skills as a programmer further. Now I've been professionally freelancing for just over 3 years!</p>
+                  <p class="text-base mb-8 max-w-[520px] dark:text-gray-2">Creating software is something I enjoy immensely but sharing that software with others is what really drives me. That's why I share all my personal projects and code on my 
+                    <a class="text-primary dark:text-amber-500 font-bold no-underline hover:underline underline-offset-2 decoration-2 decoration-primary"
+                        href="https://github.com/justice-bole" target="_blank">GitHub</a>.<br/>
                 </p>
                 <ul class="flex flex-wrap items-center">
                     <li>
